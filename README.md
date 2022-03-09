@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Self-taught Programmer enjoying the beautiful world of 0s and 1s.
+- 🤔 &nbsp; Self-taught Web developer enjoying the beautiful world of 0s and 1s.
 - 💼 &nbsp; Working as a Front End Developer at FieldR.
 - 🌱 &nbsp; Learning more about The React Ecosystem, GraphQl and TypeScript.
 - ✍️ &nbsp; I would like to learn Python in future for backend development and possibly get into AI/machine learning.
