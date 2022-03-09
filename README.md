@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/timo-tech19/timo-tech19/main/banner.jpg">
 
 <h1> Hey World!</h1>
 <h2>I'm Timo.</h2>
@@ -52,5 +52,7 @@
 <a href="https://twitter.com/timo__tech"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-timo__tech-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:timoheman16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timoheman16@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<a href='https://www.freepik.com/vectors/isometric-education'>Isometric education vector created by pch.vector - www.freepik.com</a>
 
 <!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->
