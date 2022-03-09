@@ -17,6 +17,7 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TailwindCss](https://img.shields.io/badge/-TailWindCss-333333?style=flat&logo=tailwindcss&logoColor=007FFF)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
