@@ -5,26 +5,21 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Self-taught Web developer enjoying the beautiful world of 0s and 1s.
-- 💼 &nbsp; Working as a Front End Developer at FieldR.
-- 🌱 &nbsp; Learning more about The React Ecosystem, GraphQl and TypeScript.
-- ✍️ &nbsp; I would like to learn Python in future for backend development and possibly get into AI/machine learning.
+- 🤔 &nbsp; Front-end/Full Stack engineer building with React and Next.js.
+- 💻 &nbsp; Currently building a reading list management application called Bookworm.
+- ✍️ &nbsp; Learning Python for backend development and future transition to AI and ML.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
+  ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=vercel)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![TailwindCss](https://img.shields.io/badge/-TailWindCss-333333?style=flat&logo=tailwindcss&logoColor=007FFF)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
@@ -33,8 +28,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
   <br/>
 
 <a href="https://github.com/timo-tech19/">
